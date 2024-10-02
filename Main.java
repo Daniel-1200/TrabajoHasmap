@@ -15,7 +15,7 @@ public class Main {
         int opcion;
 
         do {
-            System.out.println("\n---- Sistema de Calificaciones ----");
+            System.out.println(" SISTEMA DE CALIFICACIONES ");
             System.out.println("1. Agregar calificación de un estudiante");
             System.out.println("2. Mostrar todas las calificaciones");
             System.out.println("3. Salir");
